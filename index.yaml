@@ -1,27 +1,27 @@
 apiVersion: v1
 entries:
   helm-cluster-settings:
-  - apiVersion: "2"
-    created: "2021-01-17T15:28:42.515613561Z"
-    digest: ab9a742a5d393180b4368c8d09ada9a533c91e7494426157d7b2ef9b7bc77534
+  - apiVersion: v2
+    created: "2021-01-17T15:36:53.328926737Z"
+    digest: a1f34230cb311b0a83cbe3e3246037a43f05e63843999d976654de0bce128d3a
     name: helm-cluster-settings
     urls:
     - helm-cluster-settings-0.1.tgz
     version: "0.1"
   helm-ipam:
   - apiVersion: v2
-    created: "2021-01-17T15:28:42.516043132Z"
-    digest: 15c0ad1c1c56519117d5c077f250f2f5beb51567981f80eaf16b731e88055c58
+    created: "2021-01-17T15:36:53.329153054Z"
+    digest: 81ca73352688f12da255b30678a98b4cbe1f29c59dce0f092504c7bd3d02a0b5
     name: helm-ipam
     urls:
     - helm-ipam-0.1.tgz
     version: "0.1"
   helm-jobs:
-  - apiVersion: "2"
-    created: "2021-01-17T15:28:42.516189856Z"
-    digest: 7e4960de3e21ebdfef3a58be8a1f6bfcbf38a84f16500deafd2405d8323fbac9
+  - apiVersion: v2
+    created: "2021-01-17T15:36:53.329396372Z"
+    digest: e1d6a0eae87b6d0e2b28dfc13375cf853e67242e7641281d8a21083d2ed8b83b
     name: helm-jobs
     urls:
     - helm-jobs-0.1.tgz
     version: "0.1"
-generated: "2021-01-17T15:28:42.514994459Z"
+generated: "2021-01-17T15:36:53.328508606Z"
